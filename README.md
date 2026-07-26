@@ -395,20 +395,6 @@ Amazing Nature
 
 ---
 
-# Audio
-
-Use these free sample audio files:
-
-Nature Sounds
-
-[https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3](https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3)
-
-Ocean Waves
-
-[https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3](https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3)
-
----
-
 # HTML Tags Checklist
 
 Try to use all of these:
@@ -458,7 +444,6 @@ Try to use all of these:
 * `q`
 * `cite`
 * `iframe`
-* `audio`
 * `address`
 * `strong`
 * `em`
@@ -481,16 +466,3 @@ Try to use all of these:
 * `dfn`
 
 ---
-
-## Final Challenge
-
-Once you're done, try to keep the HTML well-organized and semantic:
-
-* Use only one `<h1>`.
-* Don't skip heading levels unnecessarily.
-* Every `<img>` should have an `alt` attribute.
-* Every form control should have an associated `<label>`.
-* Use semantic elements (`<header>`, `<main>`, `<section>`, `<article>`, `<footer>`) instead of generic `<div>`s wherever appropriate.
-* Indent your code consistently for readability.
-
-This project will be around **350–500 lines of HTML** if done thoroughly and will give you excellent practice with nearly all of the core HTML elements you'll use in real web development. After you complete it, I can review your HTML like a senior developer—checking semantics, accessibility, structure, and best practices before you move on to CSS.
