@@ -1,22 +1,31 @@
-# BeginnerToMaster
+<div align="center">
+  <h1>🌍 Travel Explorer ✨</h1>
+  <p><i>Your journey begins here! A beautiful beginner-to-master HTML project.</i></p>
 
-This folder is for basic projects that starts from basic and goes to advanced. The first project is Travel Explorer and it covers this challenge:
+  [![Deployed Link](https://img.shields.io/badge/Deployed-View_Live_Site-success?style=for-the-badge&logo=netlify)](https://travelexplorerhtml1.netlify.app/)
+  
+  <p><strong><a href="https://travelexplorerhtml1.netlify.app/">🌟 View Deployed Site 🌟</a></strong></p>
+</div>
 
-Great idea. The fastest way to get good at HTML is to build a real webpage without relying on CSS or JavaScript.
+---
 
-# HTML Challenge: Build a "Travel Explorer" Website
+## 🌸 About This Project
 
-**Difficulty:** Beginner → Intermediate
+This folder is for projects that start from the basics and go all the way to advanced levels! **Travel Explorer** is our very first project, and it's designed to master the fundamentals of web structure.
 
-**Goal:** Use almost every important HTML tag you've learned.
+> **The fastest way to get good at HTML is to build a real webpage without relying on CSS or JavaScript!** 💖
 
-**Rules:**
+## 🏆 HTML Challenge: Build a "Travel Explorer" Website
 
-* ✅ Only HTML
-* ❌ No CSS
-* ❌ No JavaScript
-* Use semantic HTML wherever possible.
-* Use only publicly available images/videos.
+**🌱 Difficulty:** Beginner ➡️ Intermediate  
+**🎯 Goal:** Use almost every important HTML tag you've learned.
+
+### ✨ Rules:
+- ✅ **Only HTML**
+- ❌ **No CSS**
+- ❌ **No JavaScript**
+- 🏷️ Use **semantic HTML** wherever possible.
+- 🖼️ Use only publicly available images/videos.
 
 ---
 
