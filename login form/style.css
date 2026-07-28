@@ -1,0 +1,206 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ae363f;
+}
+
+.login-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #e2dcd0;
+    width: 400px;
+    height: 700px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 25%;
+    background-color: #809c6c;
+    position: relative;
+    top: -100px;
+    cursor: pointer;
+}
+
+.title {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #828493;
+    position: relative;
+    top: -90px;
+    display:grid;
+    gap: 10px;
+    left: 85px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: light;
+}
+
+.login-title {
+    font-size: 18px;
+    color: #828493;
+    position:relative;
+    right: 70px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top: -75px;
+    left: 10px;
+}
+
+label {
+    font-size: 14px;
+    color: #0b0716;
+    position: relative;
+    display: block;
+}
+
+#email {
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    position: relative;
+    top: 10px;
+    left: -1px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;    
+    align-items: center;
+    flex-direction: row;
+}
+
+#password {
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    position: relative;
+    top: 20px;
+}
+
+#eyeIcon {
+    position: relative;
+    left: -35px;
+    top: 10px;
+    cursor: pointer;
+}
+
+form a {
+    color: #809c6c;
+    text-decoration: none;
+    font-size: 16px;
+    position: relative;
+    right: -150px;
+    top: 20px;
+}
+
+form a:hover {
+    text-decoration: underline;
+    color: black;
+}
+
+form button {
+    width: 200px;
+    padding: 10px;
+    background-color: #809c6c;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    position: relative;
+    left: 10px;
+    top: 60px;
+}
+
+form button:hover {
+    background-color: #424242;
+}
+
+.continue {
+    color: black;
+    position: relative;
+    top: 90px;
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    position: relative;
+    top: 120px;
+    right: 10px;
+}
+
+.google-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    height: 40px;
+    width: 120px;
+}
+
+.apple-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    height: 40px;
+    width: 120px;
+}
+
+.signup-link {
+    color: black;
+    position: relative;
+    top: 150px;
+}
+
+strong {
+    color: #424242;
+}
+
+button:hover {
+    background-color: #424242;
+    color: #6af295;
+}
+
+strong:hover {
+    color: #274d14;
+    cursor: pointer;
+}
